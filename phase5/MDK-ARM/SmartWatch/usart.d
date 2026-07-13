@@ -1,0 +1,32 @@
+smartwatch\usart.o: ../Core/Src/usart.c
+smartwatch\usart.o: ../Core/Inc/usart.h
+smartwatch\usart.o: ../Core/Inc/main.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+smartwatch\usart.o: ../Core/Inc/stm32f1xx_hal_conf.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Include/core_cm3.h
+smartwatch\usart.o: D:\keil5\ARM\4 ARMCC\Bin\..\include\stdint.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Include/cmsis_version.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Include/cmsis_compiler.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Include/cmsis_armcc.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+smartwatch\usart.o: D:\keil5\ARM\4 ARMCC\Bin\..\include\stddef.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+smartwatch\usart.o: C:/Users/liuxy/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
